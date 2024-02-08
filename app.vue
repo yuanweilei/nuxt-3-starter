@@ -3,7 +3,6 @@
     <div class="home-page">
       <h1>Hi! This is a simple Nuxt 3 app.</h1>
      </div>
-    <NuxtWelcome />
   </div>
 </template>
 <style>
